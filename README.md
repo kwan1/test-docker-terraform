@@ -1,7 +1,5 @@
 # How to Install Docker on Ubuntu 20 🤔
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95eaa3fa-d676-4f67-bcf6-a2c9778ac9bf/Untitled.png)
-
 # **Option 1: Installing Docker from Official Repository**
 
 # **Step 1: Updating the Software Repository**
