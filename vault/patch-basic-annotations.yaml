@@ -1,0 +1,7 @@
+spec:
+  template:
+    metadata:
+      annotations:
+        vault.hashicorp.com/agent-inject: "true"
+        vault.hashicorp.com/agent-inject-kv-v2-helloworld: "kv-v2/helloworld"
+        vault.hashicorp.com/role: "myapp"
