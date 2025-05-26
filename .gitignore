@@ -14,3 +14,16 @@ venv.bak/
 
 .idea
 .terraform
+
+# Terraform working dir
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+# Local override files (optional)
+terraform.tfvars
+terraform.tfvars.json
+override.tf
+override.tf.json
